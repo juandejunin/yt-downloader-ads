@@ -1,6 +1,7 @@
 {
   "banner_id": "prueba_001",
-  "imagen": "https://juandejunin.github.io/yt-downloader-ads/banner.png",
-  "url_click": "https://www.youtube.com/@ritmoyalgoritmo-p1z",
+  "show_image": true,
+  "image_url": "https://juandejunin.github.io/yt-downloader-ads/banner.png",
+  "click_url": "https://www.youtube.com/@ritmoyalgoritmo-p1z",
   "metrics_url": "https://script.google.com/macros/s/AKfycbzwGMp19kZO5_knQx-_ViOOcYVvFvj_BlnnKXXQyk6ms2WFPATJf8wmcLu37Nv5Mx4Lrw/exec"
 }
