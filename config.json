@@ -9,7 +9,8 @@
   },
   "banner": {
     "id": "prueba_001",
-    "text": "Apoyá el proyecto mirando un video y suscribiendote al canal ☕",
+    "text": "Apoyá el proyecto mirando un video",
+    "text2": "y suscribiéndote al canal ☕ ▶",
     "url": "https://www.youtube.com/@ritmoyalgoritmo-p1z",
     "metrics_url": "https://script.google.com/macros/s/...",
     "show_image": true,
