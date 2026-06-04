@@ -1,13 +1,18 @@
 {
-  "banner_id": "prueba_001",
-  "show_image": true,
-  "image_url": "https://juandejunin.github.io/yt-downloader-ads/banner.png",
-  "click_url": "https://www.youtube.com/@ritmoyalgoritmo-p1z",
-  "metrics_url": "https://script.google.com/macros/s/AKfycbzwGMp19kZO5_knQx-_ViOOcYVvFvj_BlnnKXXQyk6ms2WFPATJf8wmcLu37Nv5Mx4Lrw/exec",
-  "splash_seconds": 5,
-  "message_title": "R&A Downloader",
-  "message_text": "Gratis, pero el café no ☕",
-  "message_sub": "Podes ayudar opcionalmente durante el uso de la app",
-  "app_banner_text": "Apoyá el proyecto mirando un video y suscribiendote al canal☕",
-  "app_banner_url": "https://www.youtube.com/@ritmoyalgoritmo-p1z"
+  "app": {
+    "splash_seconds": 5
+  },
+  "splash": {
+    "title": "R&A Downloader",
+    "text": "Gratis, pero el café no ☕",
+    "sub": "Podes ayudar opcionalmente durante el uso de la app"
+  },
+  "banner": {
+    "id": "prueba_001",
+    "text": "Apoyá el proyecto mirando un video y suscribiendote al canal ☕",
+    "url": "https://www.youtube.com/@ritmoyalgoritmo-p1z",
+    "metrics_url": "https://script.google.com/macros/s/...",
+    "show_image": true,
+    "image_url": "https://juandejunin.github.io/yt-downloader-ads/banner.png"
+  }
 }
